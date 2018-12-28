@@ -1,0 +1,22 @@
+body{
+  background: #FDD2E3;
+}
+img{
+height:  400px;
+width: 30%;
+float: left;
+margin: 1.6666%;
+}
+img:hover{
+  border: red 2px solid;
+  background-color: inherit;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: 2px solid grey;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+}

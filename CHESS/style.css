@@ -1,0 +1,25 @@
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+td{
+  height: 60px;
+  width: 60px;
+}
+#black{
+  background: black;
+}
+#white{
+  background: white;
+}
+table{
+  border:red solid 6px;
+  margin: auto;
+}
+td:hover{
+  background: red;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}

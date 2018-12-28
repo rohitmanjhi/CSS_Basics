@@ -1,0 +1,21 @@
+#top{
+  border: 10px red solid;
+  width: 22%;
+  text-align: center;
+  /*top right bottom left*/
+  padding: 100px 100px 100px 100px;
+  /*first value top and bottom and second left and right*/
+  padding: 100px 200px;
+/* covered all combination*/
+padding: 100px;
+margin: 100px;
+
+}
+#bottom{
+  border: 10px red solid;
+  width: 22%;
+  text-align: center;
+  padding: 25px;
+  margin: 150px;
+
+}
